@@ -25,4 +25,4 @@ HR-аналитики компании «Работа с заботой» пом
 <h2>Задача 2: предсказание увольнения сотрудника из компании</h2>
 Для этой задачи вы можете использовать те же входные признаки, что и в предыдущей задаче. Однако целевой признак отличается: это <b>quit</b> — увольнение сотрудника из компании.
 <br><br>
-<a href="https://github.com/Runki84/YP-DS-07-HR-analitics/blob/main/07-HR-analitics.ipynb">Проект</a>
+<a href="https://github.com/Runki-DS/YP-DS-07-HR-analitics/blob/main/07-HR-analitics.ipynb">Проект</a>
